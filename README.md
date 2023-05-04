@@ -1,5 +1,4 @@
-### Hi there 👋
-# I am an Engineering Systems and Computing student at the Unversity of Guelph
+## I am an Engineering Systems and Computing student at the Unversity of Guelph
 
 I am currently looking for summer 2023 internships
 
