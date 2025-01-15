@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am an Engineering Systems and Computing student at the Unversity of Guelph<br><br>So far I have made a calculator website which was my first introduction to JavaScript, HTML and CSS. Then I made an edge detection website purely in HTML, CSS and JavaScript. The images are manipulated using JavaScript Canvas<br><br>🔭 I’m currently working on learning fullstack web development
+I am an Engineering Systems and Computing student at the Unversity of Guelph<br><br>So far I have made a calculator website which was my first introduction to JavaScript, HTML and CSS. Then I made an edge detection website purely in HTML, CSS and JavaScript. The images are manipulated using JavaScript Canvas<br><br>🔭 I’m currently working on making a web app called UniSpace to help the University of Guelph students find empty classrooms to study in.
 
 
 ## 🌐 Socials:
