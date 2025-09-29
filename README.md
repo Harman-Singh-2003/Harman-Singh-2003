@@ -7,7 +7,7 @@ Looking for Spring 2026 new-grad roles in full-stack, back-end, front-end, or De
 I build end to end and have shipped production code and projects to real users. I'm always learning new technologies and trying to apply them in day-to-day life as a software engineer.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-harman--singh.com-111827?style=for-the-badge)](https://harman-singh.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harman-singh-2003/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harman-singh2003/)
 [![Email](https://img.shields.io/badge/Email-Contact-3b82f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harmansingh2003ca@gmail.com)
 
 ----
