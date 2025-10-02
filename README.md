@@ -2,18 +2,18 @@
 # Harman Singh
 
 **Engineering student, graduating May 2026**  
-Looking for Spring 2026 new-grad roles in full-stack, back-end, front-end, or DevOps. Based in Kitchener, Ontario, Canada.
+Looking for 2026 new-grad roles in full-stack, back-end, front-end, mobile, or DevOps. Based in Kitchener, Ontario, Canada.
 
-I build end to end and have shipped production code and projects to real users. I'm always learning new technologies and trying to apply them in day-to-day life as a software engineer.
+I build end-to-end and have shipped production code and projects to real users. I'm always learning new technologies and trying to apply them in day-to-day life as a software engineer.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-harman--singh.com-111827?style=for-the-badge)](https://harman-singh.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harman-singh2003/)
 [![Email](https://img.shields.io/badge/Email-Contact-3b82f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harmansingh2003ca@gmail.com)
 
 ----
-## Favorite Project — Ventr
-Safer walking routes for Toronto with a simple compare view for **Safest** vs **Fastest**.  
-I creating the entire project, including backend, frontend, and deployments. Caching and a risk-weighted graph made responses feel instant (~90% faster).  
+## Favourite Project — Ventr
+Safer walking routes for Toronto with a simple compare view for safest vs fastest routes.  
+I created the entire project, including backend, frontend, and CI/CD. Caching and a risk-weighted graph made responses feel instant (~90% faster).  
 **Live:** https://ventr.harman-singh.com  
 **Stack:** Python/FastAPI, NetworkX, React/Next.js, AWS, Nginx, Cloudflare.
 
