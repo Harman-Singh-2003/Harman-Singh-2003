@@ -13,7 +13,8 @@ I build end-to-end and have shipped production code and projects to real users. 
 ----
 ## Favourite Project — Ventr
 Safer walking routes for Toronto with a simple compare view for safest vs fastest routes.  
-I created the entire project, including backend, frontend, and CI/CD. Caching and a risk-weighted graph made responses feel instant (~90% faster).  
+I created the entire project, including backend, frontend, and CI/CD. It uses a crime-risk weighted graph based on crime incidents in Toronto, and caches it to make responses nearly instant (~90% faster).  
+
 **Live:** https://ventr.harman-singh.com  
 **Stack:** Python/FastAPI, NetworkX, React/Next.js, AWS, Nginx, Cloudflare.
 
